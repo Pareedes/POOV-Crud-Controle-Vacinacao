@@ -11,7 +11,7 @@ import java.io.IOException;
 public class Main extends Application{
 
     public static Scene scene;
-
+    //COMENTÁRIO DE TESTE EM CIMA DO OVERRIDE
     @Override
     public void start(Stage primaryStage) throws Exception {
         scene = new Scene(loadFXML("telaprincial"));
