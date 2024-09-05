@@ -1,4 +1,4 @@
-# trabalhofinal
+# Trabalho Final - POOV
 Trabalho final poov. CRUD em java e javafx com controle de vacinação.
 
 Controle de Vacinação
