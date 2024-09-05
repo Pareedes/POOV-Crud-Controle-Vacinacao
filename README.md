@@ -1,5 +1,5 @@
 # trabalhofinal
-Trabalho final poov.
+Trabalho final poov. CRUD em java e javafx com controle de vacinação.
 
 Controle de Vacinação
 
